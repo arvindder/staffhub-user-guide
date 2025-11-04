@@ -23,17 +23,17 @@ Before you create a Leave Application, it is advisable you have the following do
 
 1.  Go to Leave Application list, click on New.
 2.  A table of Allocated Leaves will be shown. Based on the Leaves taken, the available leaves are displayed for each Leave Type.
-3.  [Leave Application](_static/leave-app.png)
+3.  ![Leave Application](_static/leave-app.png)
 4.  Select the Employee Name and Leave Type.
 5.  Set the Leave duration using From Date and To Date. Based on the dates selected, the 'Total Leave Days' and the 'Leave Balance Before Application' fields will be displayed.
 6.  If the Leave applied is for a half-day, select the 'Half Day' checkbox.
 7.  Enter the Reason for Leave.
-8.  [Leave Application](_static/leave-app1.png)
+8.  ![Leave Application](_static/leave-app1.png)
 9.  Select Leave Approver.
 10. Select the Posting Date of the Leave Application.
 11. Check the 'Follow via Email' checkbox to send notification of the Leave Application to the Leave Approver.
 12. You can also link the Salary Slip of the Employee in the Leave Application for the record.
-13. [Leave Application](_static/leave-app3.png)
+13. ![Leave Application](_static/leave-app3.png)
 14. Click on Save. Once the Employee saves the Leave Application, the status of the Leave Application changes to 'Open', and an email is sent to the Leave Approver for approval.
 15. Once the Leave Approver receives the email, they can Approve, Reject, or Cancel the Leave Application. Once this is done, the Leave Approver can submit the Leave Application. On submission, the status of the document changes accordingly, and an email is sent to the Employee notifying them the same.
 
@@ -54,7 +54,7 @@ The Leave Application process flow is summarized below:
 A leave approver is a user who can approve a Leave Application of an Employee.
 
 1.  **Employee Level:** Leave Approvers can also be set Employee-wise in the employee master.
-2.  [Leave Application - Leave Approvers](_static/employee-level-approvers.png)
+2.  ![Leave Application - Leave Approvers](_static/employee-level-approvers.png)
 
 When a new Leave Application is created, if the selected leave approver does not have access to it, the document is shared with the approver with "submit" permission.
 
