@@ -37,8 +37,6 @@ Before you create a Leave Application, it is advisable you have the following do
 11. Click on Save. Once the Employee saves the Leave Application, the status of the Leave Application changes to 'Open', and an email is sent to the Leave Approver for approval.
 12. Once the Leave Approver receives the email, they can Approve, Reject, or Cancel the Leave Application. Once this is done, the Leave Approver can submit the Leave Application. On submission, the status of the document changes accordingly, and an email is sent to the Employee notifying them the same.
 
-\_Note: Leave Application cannot be submitted if the Salary is already processed for the leave period.\_
-
 The Leave Application process flow is summarized below:
 
 1.  The employee applies for leave through Leave Application.
