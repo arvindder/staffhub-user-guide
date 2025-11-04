@@ -13,6 +13,7 @@ Welcome to StaffHub User Guide's documentation!
    api-reference
    faq
    markdown-test
+   hr/leave_application/index
 
 Introduction
 ============
