@@ -57,15 +57,7 @@ When an Employee applies for Leave, the days mentioned in the Holiday List will 
 
 > **Note:** If you have specified a Holiday List in the Employee master, then that Holiday List will be given priority as compared to the default Holiday List of the Company. You can form as many holiday lists as you wish. For example, if you have a factory, you can have one list for the factory workers and another list for office staff. You can manage between many lists by linking a Holiday List to the respective Employee.
 
-## 5. Holiday List in Workstation
-
-You can also set a Holiday List at workstation-level as shown in the screenshot below.
-
-![Holiday List in Workstation](_static/holiday-list-workstation.png)
-
-The dates in the Holiday List tagged in the [Workstation](https://docs.frappe.io/erpnext/v13/user/manual/en/manufacturing/workstation) master will be considered as the days the Workstation will remain closed.
-
-## 6. Related Topics
+## 5. Related Topics
 
 1.  [Leave Allocation](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-allocation)
 2.  [Leave Period](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-period)

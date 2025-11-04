@@ -7,7 +7,7 @@ Welcome to StaffHub User Guide's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   hr/leave_application/index
+   module/index
 
 Introduction
 ============
