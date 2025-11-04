@@ -12,6 +12,7 @@ Welcome to StaffHub User Guide's documentation!
    tutorials/index
    api-reference
    faq
+   markdown-test
 
 Introduction
 ============

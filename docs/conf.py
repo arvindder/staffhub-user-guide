@@ -20,6 +20,12 @@ extensions = [
     'myst_parser',  # For Markdown support
 ]
 
+# Enable markdown files
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'myst',
+}
+
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
