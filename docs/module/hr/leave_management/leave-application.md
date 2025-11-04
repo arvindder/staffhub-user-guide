@@ -1,3 +1,5 @@
+# Leave Application
+
 **Leave Application is a formal document created by an Employee to apply for Leaves for a particular time period.**
 
 ERPNext allows your employees to apply for leaves via Leave Applications and get them approved by the Leave Approvers.
