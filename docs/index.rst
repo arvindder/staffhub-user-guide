@@ -6,13 +6,7 @@ Welcome to StaffHub User Guide's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   getting-started
-   features/index
-   tutorials/index
-   api-reference
-   faq
-   markdown-test
+   
    hr/leave_application/index
 
 Introduction

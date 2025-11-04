@@ -17,6 +17,7 @@ release = '1.0.0'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
+    "sphinx_rtd_theme",
     'myst_parser',  # For Markdown support
 ]
 
@@ -34,6 +35,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_logo = '_static/logo.png'  # Optional
-html_favicon = '_static/favicon.ico'  # Optional
+# html_logo = '_static/logo.png'  # Optional
+# html_favicon = '_static/favicon.ico'  # Optional
 
