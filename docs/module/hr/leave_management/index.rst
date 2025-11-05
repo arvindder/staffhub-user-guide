@@ -7,6 +7,7 @@ Leave Management
    leave-application
    holiday-list
    leave-policy
+   leave-period
    leave-block-list
    employee-weekend-timesheet
-   replacement-leave-request
+   replacement-leave
