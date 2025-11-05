@@ -5,5 +5,8 @@ Leave Management
    :maxdepth: 1
 
    leave-application
-   leave-type
    holiday-list
+   leave-policy
+   leave-block-list
+   employee-weekend-timesheet
+   replacement-leave-request
