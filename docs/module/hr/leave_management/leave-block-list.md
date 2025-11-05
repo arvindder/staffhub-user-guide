@@ -33,6 +33,6 @@ Before you create a Leave Block List, it is advisable you have the following doc
 
 5.  Save.
 
-![Leave Block List](_script/leave-block-list.png)
+![Leave Block List](_static/leave-block-list.png)
 
 > **Note:** Enable the 'Applies to Company' option if you want the Leave Block List to be applicable for the entire Company. If not checked, the list will have to be added to each [Department]() where it has to be applied.
