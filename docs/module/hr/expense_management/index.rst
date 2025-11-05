@@ -6,3 +6,4 @@ Expense Claim Management
 
    expense-claim
    expense-claim-policy
+   expense-claim-type
