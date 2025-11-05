@@ -56,10 +56,3 @@ If you have created multiple Holiday List, select a specific Holiday List for an
 When an Employee applies for Leave, the days mentioned in the Holiday List will not be counted, as they are holidays already.
 
 > **Note:** If you have specified a Holiday List in the Employee master, then that Holiday List will be given priority as compared to the default Holiday List of the Company. You can form as many holiday lists as you wish. For example, if you have a factory, you can have one list for the factory workers and another list for office staff. You can manage between many lists by linking a Holiday List to the respective Employee.
-
-## 5. Related Topics
-
-1.  [Leave Allocation](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-allocation)
-2.  [Leave Period](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-period)
-3.  [Leave Policy](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-policy)
-4.  [HR Settings](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/hr-settings)
