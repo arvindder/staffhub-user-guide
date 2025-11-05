@@ -5,3 +5,4 @@ Expense Claim Management
    :maxdepth: 1
 
    expense-claim
+   expense-claim-policy
