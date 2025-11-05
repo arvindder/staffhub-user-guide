@@ -1,51 +1,41 @@
-# Compensatory Leave Request
+# Replacement Leave Request
 
-</div>
+**Replacement Leave is a leave that is granted to an Employee as compensation for working overtime or on holidays.**
 
-<div class="wiki-content">
+ERPNext allows Employees to request for Replacement Leaves through the Replacement Leave Request document. It is necessary that the dates mentioned in the Replacement Leave Request should be in default Holiday List and also that the Employee should have their attendance marked Present.
 
-**Compensatory Leave is a leave that is granted to an Employee as compensation for working overtime or on holidays.**
+> **Note:** Only Leave Types which are marked as 'Is Replacement' can be selected in the Replacement Leave Request.
 
-ERPNext allows Employees to request for Compensatory Leaves through the Compensatory Leave Request document. It is necessary that the dates mentioned in the Compensatory Leave Request should be in default Holiday List and also that the Employee should have their attendance marked Present.
+To access Replacement Leave Request, go to:
 
-> **Note:** Only Leave Types which are marked as 'Is Compensatory' can be selected in the Compensatory Leave Request.
-
-To access Compensatory Leave Request, go to:
-
-> Home \> Human Resources \> Leaves \> Compensatory Leave Request
+> Home \> Human Resources \> Leaves \> Replacement Leave Request
 
 ## 1. Prerequisites
 
-Before creating a Compensatory Leave Request, it is necessary to create the following documents:
+Before creating a Replacement Leave Request, it is necessary to create the following documents:
 
-- [Employee](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/employee)
-- [Leave Period](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-period)
-- [Leave Type](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-type)
-- [Leave Policy](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-policy)
-- [Leave Allocation](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-allocation)
-- [Holiday List](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/holiday-list)
-- [Attendance](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/attendance)
+- [Employee]()
+- [Leave Period]()
+- [Leave Type]()
+- [Leave Policy]()
+- [Leave Allocation]()
+- [Holiday List]()
+- [Attendance]()
 
-## 2. How to create a Compensatory Leave Request
+## 2. How to create a Replacement Leave Request
 
-1.  Go to Compensatory Leave Request list, click on New.
+1.  Go to Replacement Leave Request list, click on New.
 
 2.  Select the Employee ID. Once selected, The Employee Name and Department will get automatically fetched.
 
-3.  Select Leave Type.
+3.  Select Leave Type. (Annual Leave Replacement)
 
-4.  Select Work From Date and Work End Date. This is the date of the day(s) the Employee has worked on, during a Holiday.
+4.  Select Work From Date and Work End Date. This is the date of the day(s) the Employee has worked on, during a Holiday or Weekend.
 
 5.  Enter the Reason.
 
 6.  Save and Submit.
 
-    <img src="./media/compensatory-leave.png" class="screenshot" alt="Compensatory Leave Request" />
+![Replacement Leave Request](_static/replacement_leave_request.png)
 
-On submitting the Compensatory Leave Request, ERPNext updates the Leave Allocation record for the Compensatory leave type, allowing the Employee to apply for leaves of this type later on depending upon the number of leaves left.
-
-## 3. Related Topics
-
-1.  [Leave Application](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-application)
-2.  [Leave Encashment](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-encashment)
-3.  [Leave Block List](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-block-list)
+On submitting the Replacement Leave Request, ERPNext updates the Leave Allocation record for the Replacement leave type, allowing the Employee to apply for leaves of this type later on depending upon the number of leaves left.

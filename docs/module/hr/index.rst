@@ -5,4 +5,4 @@ HR
    :maxdepth: 2
 
    leave_management/index
-   recruitment/index
+   expense_management/index

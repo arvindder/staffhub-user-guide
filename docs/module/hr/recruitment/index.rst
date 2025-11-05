@@ -1,4 +1,0 @@
-Recruitment
-===========
-
-Content coming soon.

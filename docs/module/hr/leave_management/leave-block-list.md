@@ -16,10 +16,10 @@ ERPNext allows you to define a list of Leave Approvers who can approve Leave App
 
 Before you create a Leave Block List, it is advisable you have the following documents:
 
-- [Company](https://docs.frappe.io/erpnext/v13/user/manual/en/setting-up/company-setup)
-- [Department](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/department)
-- [Leave Period](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-period)
-- [Holiday List](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/holiday-list)
+- [Company]()
+- [Department]()
+- [Leave Period]()
+- [Holiday List]()
 
 ## 2. How to create a Leave Block List
 
@@ -33,14 +33,6 @@ Before you create a Leave Block List, it is advisable you have the following doc
 
 5.  Save.
 
-    <img src="./media/leave-block-list.png" class="screenshot" alt="Leave Block List" />
+![Leave Block List](_script/leave-block-list.png)
 
-> **Note:** Enable the 'Applies to Company' option if you want the Leave Block List to be applicable for the entire Company. If not checked, the list will have to be added to each [Department](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/department) where it has to be applied.
-
-## 3. Related Topics
-
-1.  [Leave Type](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-type)
-2.  [Leave Period](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-period)
-3.  [Leave Policy](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-policy)
-4.  [Leave Allocation](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-allocation)
-5.  [Leave Application](https://docs.frappe.io/erpnext/v13/user/manual/en/human-resources/leave-application)
+> **Note:** Enable the 'Applies to Company' option if you want the Leave Block List to be applicable for the entire Company. If not checked, the list will have to be added to each [Department]() where it has to be applied.
